@@ -45,17 +45,17 @@ The dataset contains historical stock prices for Technical Olympic S.A. It inclu
    ```sh
    git clone https://github.com/your-username/technical-olympic-stock-analysis.git
 
-2. Navigate to the Project Directory:
-  ```sh
-  cd technical-olympic-stock-analysis
-  ```
+2. **Navigate to the Project Directory**:
+   ```sh
+   cd technical-olympic-stock-analysis
+   ```
 
-3. Install Required Libraries: Install the required R libraries using:
-  ```r
-  install.packages(c("forecast", "tseries", "ggplot2", "dplyr", "readr"))
-  ```
+3. **Install Required Libraries**: Install the required R libraries using:
+   ```r
+   install.packages(c("forecast", "tseries", "ggplot2", "dplyr", "readr"))
+   ```
 
-4. Open the R Script: Open and run the time_series_analysis.R script in your R environment.
+4. **Open the R Script**: Open and run the time_series_analysis.R script in your R environment.
 
 ## Results
 
